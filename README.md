@@ -6,7 +6,7 @@ Re-inforcement Learning Agent that can help you automate decisions around:
 
 A customized Re-inforcement Learning(RL) environment is part of the package to simluate real-world stock market. RL agent acts as a trader to learn securities price-action behavior. After sufficient training, it recognised patterns to make profitable trades.
 
-![Trade-Smart: Reinforcement Learning (RL) Agent for Stock Markets](link-to-image)
+![Trade-Smart: Reinforcement Learning (RL) Agent for Stock Markets](https://github.com/mohneesh-saxena/Trade-Smart/img.jpeg)
 
 In the given setup, following steps were taken:
 1. Stock Market Environment was created (ENV)
